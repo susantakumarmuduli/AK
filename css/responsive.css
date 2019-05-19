@@ -57,4 +57,10 @@
     .gallery-section .widgets-container .widgets {
         width: 47%;
     }
+    .contact-section-scroll {
+        overflow-y: auto;
+    }
+    .contact-section .columns {
+        width: 100%;
+    }
 }
